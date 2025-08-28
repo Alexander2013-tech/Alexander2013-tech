@@ -1,6 +1,22 @@
 # 💫 About Me:
-I'm currently working on a website that requires NLP, ML, DL and voip systems<br>i'm looking to collaberate on projects about EEG and deep learning<br>I'm looking for help with working on EEG projects since i'm a learner in this case<br>Currently I'm learning EEG signal processing, MVC structure based websites<br>Ask me about the lastest deep learning and images processing project for interior design called DecoV<br>Fun fact, I enjoy learning while working on projects, since they are making me grow 
+**A Passionate Builder at the Crossroads of AI, Neuroscience, and Web Tech**
 
+I'm currently architecting systems that blend **Natural Language Processing (NLP), Machine/Deep Learning (ML/DL), and VoIP** to create intelligent web applications. My journey is driven by a core belief: **the best learning happens by building.**
+
+### 🧠 What I'm Up To
+
+*   **🧠 EEG & Deep Learning:** Actively learning and applying deep learning models to process and interpret EEG signals. I'm looking for collaborators and mentors on this fascinating journey!
+*   **🎨 DecoV - AI for Interior Design:** Leading development on **DecoV**, my latest deep learning project that uses image processing to revolutionize interior design and decor.
+*   **🌐 Full-Stack Development:** Building robust, scalable websites using MVC architecture patterns.
+
+### 🚀 Let's Connect!
+
+I'm always excited to connect with developers, researchers, and enthusiasts in:
+- EEG Signal Processing & BCI
+- Computer Vision & Deep Learning
+- VoIP and Real-Time Communication Systems
+
+**Fun Fact:** I level up my skills by diving headfirst into complex projects. If you're working on something cool in AI or neuroscience, let's talk!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/parsa-hosseinalizadeh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:parsahosseinalizadeh1@gmail.com) 
